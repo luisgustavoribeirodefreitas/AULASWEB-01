@@ -1,0 +1,4 @@
+body{
+    background-color: #ce9696; 
+    background: linear-gradient(315deg, #0942dd 15%, #4cb0cc 74%); /*tem prioridade*/
+}
